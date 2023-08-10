@@ -1,3 +1,3 @@
-import BokehExample from '../app/src/examples/BokehExample';
+import BubblesExample from '../app/src/examples/BubblesExample';
 
-export default BokehExample;
+export default BubblesExample;
